@@ -44,8 +44,6 @@ I've lived and worked in the city since 2018 and freelanced since 2019. Berlin i
 - A keen triathlete I completed my first full ironman in 2023 (sneaking in under 12 hours) 
 - I've completed 3 marathons with the latest in 2023 at my home race in Berlin.
 
-🔭 I’m currently working on:
-
 🌱 I’m currently learning: Terraform
 
 ⚡ Fun fact: I was born in Hong kong
