@@ -11,12 +11,14 @@ I consider my self somewhat of a genralist having implemented end to end data pr
 - SQL
 - Excel
 - Salesforce
+- Webscraping
 - Looker
 - Apache Airflow
 - Cloud functions
 - Cloud composer
 - Power BI
 - Tableau
+
 
 🔄🔍 Process skills:
 
@@ -44,6 +46,6 @@ I've lived and worked in the city since 2018 and freelanced since 2019. Berlin i
 - A keen triathlete I completed my first full ironman in 2023 (sneaking in under 12 hours) 
 - I've completed 3 marathons with the latest in 2023 at my home race in Berlin.
 
-🌱 I’m currently learning: Terraform
+🌱 I’m currently learning: Streamlit and all things Dashboard as code.
 
 ⚡ Fun fact: I was born in Hong kong
