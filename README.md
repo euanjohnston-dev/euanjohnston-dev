@@ -3,7 +3,7 @@
 Dedicated to the precision of data-driven decision-making, I am an accomplished Freelance Business Intelligence Manager situated in Berlin. My expertise lies in distilling complex data sets into strategic insights, empowering organizations to thrive in today's competitive landscape.
 
 👨‍💻 Professional Expertise:
-I consider my self somewhat of a genralist having implemented end to end data projects of varying shapes and sizes. My background stems from Sales and Operations moving more recently in the direction of data engineering and data analytics.
+I consider my self somewhat of a generalist having implemented end to end data projects of varying shapes and sizes. My background stems from Sales and Operations moving more recently in the direction of data engineering and data analytics.
 
 🌐 Key software Skills:
 
